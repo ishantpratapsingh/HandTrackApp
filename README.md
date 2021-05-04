@@ -1,5 +1,7 @@
 # HandTrackApp
-HandTracking Application Build Using HTML,CSS and JS
+HandTracking Application is Build Using HTML,CSS and JS.
+
+
 During the times of this pandemic, Gamers and Competetive Programmers have a bad habbit of continously touching their or face or biting their nails.
 Such practise is not safe in the times of pandemic and it is very diffult to let go this habbit as it persists for years.
 So just to help you with this, I have created this application which would detect your hand as soon as you raise to touch your face or bite nails and a 

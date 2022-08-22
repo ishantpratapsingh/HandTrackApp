@@ -1,5 +1,6 @@
 # HandTrackApp
-HandTracking Application is Build Using HTML,CSS and JS.
+HandTracking Application is Build Using HTML,CSS and JS 
+( College Project 2020 )
 
 
 During the times of this pandemic, Gamers and Competetive Programmers have a bad habbit of continously touching their face or biting their nails.
